@@ -30,5 +30,6 @@ the diagram the way we do?
   Combine two branches. To view the parents commits and how to reach to each
   commit.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  You can review the code doing merges manually. 
