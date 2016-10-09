@@ -14,3 +14,9 @@ use one instead of another?
   fork that repository and make your own changes. You clone one repository for
   work in your own machine. You create a branch to test some new features, or
   try to fix things.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  Merge your changes with the last known change of the remote repository.
+  
