@@ -19,4 +19,11 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
   Merge your changes with the last known change of the remote repository.
-  
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+  A lot of communication, exchange of the files, reviewing, discussing.
+
+  Easier: manage various states of the project.
+  Harder: the learning curve of Git and GitHub.
