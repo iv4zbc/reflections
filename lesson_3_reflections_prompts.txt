@@ -27,3 +27,8 @@ and what would be harder?
 
   Easier: manage various states of the project.
   Harder: the learning curve of Git and GitHub.
+
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+  Testing things.
